@@ -1,3 +1,5 @@
 # Dosa-Shop
 first i have to create a ruleset for main branch
-second
+second we have to create branch
+-> git checkout -b plain-dosa
+## plain-dosa
