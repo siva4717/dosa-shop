@@ -104,7 +104,7 @@ git branch -d plain-dosa
 git push origin --delete plain-dosa
 ```
 
----
+----
 
 ## 📌 Git Commands Summary
 
