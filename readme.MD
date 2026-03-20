@@ -5,4 +5,5 @@ second we have to create branch
 -> git log for commits
 
 ## plain-dosa
-add batter
+* add batter
+* add ghee
